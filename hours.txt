@@ -1,0 +1,15 @@
+Before logging:
+- React Tutorial: 3 hour
+- CSS/HTML Tutorial: 1 hour
+- NavBar/About/Apply: 1 Hour
+- Styling: 1 Hour
+- React Router 1 Hour
+
+
+March, 2, 2022:
+    - Time 5:00 -> 5:20: 20min
+    - Played with styling
+    - Created stories/contact page
+    - created footer
+    - Time 6:00 - 7:15
+    - Styling
