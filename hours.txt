@@ -13,3 +13,8 @@ March, 2, 2022:
     - created footer
     - Time 6:00 - 7:15
     - Styling
+    - Total: 1h 35min
+
+March, 3, 2022:
+    - Time 6:40 -> 7:40
+    - Styling footer/social links
