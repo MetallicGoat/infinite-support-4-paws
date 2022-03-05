@@ -41,24 +41,44 @@
     margin: 0 auto;
 }
 
+.our-team{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.our-team img{
+    border-radius: 50%;
+    max-width: 80%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.person{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
 .foot * {
     background-color: #f1d5d5;
 }
 
 .foot footer {
-    position: absolute;
     margin: 10px auto;
-    right: 10px;
-    left: 10px;
-    bottom: 0;
     padding: 20px;
     max-width: 800px;
     border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .social-container {
     padding: 25px 50px;
-    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 a.social {
@@ -69,12 +89,4 @@ a.social {
 
 a.social:hover {
     transform: translateY(-2px);
-}
-
-a.facebook {
-    color: #4968ad;
-}
-
-a.instagram {
-    color: black;
 }

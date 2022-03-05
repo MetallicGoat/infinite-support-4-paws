@@ -1,7 +1,7 @@
 Before logging:
 - React Tutorial: 3 hour
 - CSS/HTML Tutorial: 1 hour
-- NavBar/About/Apply: 1 Hour
+- NavBar/About/ApplyPage: 1 Hour
 - Styling: 1 Hour
 - React Router 1 Hour
 
@@ -18,3 +18,7 @@ March, 2, 2022:
 March, 3, 2022:
     - Time 6:40 -> 7:40
     - Styling footer/social links
+
+March, 4, 2022:
+    - Time 8:30 -> 9:30
+    - Our-Team component

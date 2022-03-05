@@ -1,5 +1,7 @@
+import TeamComp from "./TeamComp";
+
 /**
- * AboutUs Page
+ * AboutUsPage Page
  *
  * Why were we founded?
  * Mission?
@@ -10,10 +12,11 @@
  *
  **/
 
-export default function AboutUs() {
+export default function AboutUsPage() {
     return (
         <div className="page">
-            <h2>About Us</h2>
+            <h2></h2>
+            <TeamComp/>
         </div>
     );
 }
