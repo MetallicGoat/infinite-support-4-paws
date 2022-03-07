@@ -1,4 +1,5 @@
 import TeamComp from "./TeamComp";
+import EventsComp, {BuildEvent} from "./EventsComp";
 
 /**
  * AboutUsPage Page
@@ -15,7 +16,7 @@ import TeamComp from "./TeamComp";
 export default function AboutUsPage() {
     return (
         <div className="page">
-            <h2></h2>
+            <EventsComp/>
             <TeamComp/>
         </div>
     );

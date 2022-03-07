@@ -18,7 +18,14 @@ March, 2, 2022:
 March, 3, 2022:
     - Time 6:40 -> 7:40
     - Styling footer/social links
+    - Total 1h
 
 March, 4, 2022:
-    - Time 8:30 -> 9:30
+    - Time 8:30 -> 10:00
     - Our-Team component
+    - Total 1h 30min
+
+March, 6, 2022:
+    - Time 8:30 -> 10:00
+    - Upcoming Events component
+    - Total 1h 30min
