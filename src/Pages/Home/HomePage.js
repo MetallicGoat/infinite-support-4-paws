@@ -1,8 +1,9 @@
 import TeamComp from "./TeamComp";
 import EventsComp, {BuildEvent} from "./EventsComp";
+import MissionStatementComp from "./MissionStatementComp";
 
 /**
- * AboutUsPage Page
+ * HomePage Page
  *
  * Why were we founded?
  * Mission?
@@ -13,11 +14,13 @@ import EventsComp, {BuildEvent} from "./EventsComp";
  *
  **/
 
-export default function AboutUsPage() {
+export default function HomePage() {
     return (
         <div className="page">
+            <MissionStatementComp/>
             <EventsComp/>
             <TeamComp/>
+            {/*Contact*/}
         </div>
     );
 }

@@ -19,8 +19,8 @@ function BuildEvent(props) {
             <div className="event-date">
                 <h1>{props.monthDay}</h1>
                 <div className="event-mini-date">
-                    <h3>{props.day}</h3>
-                    <h3>{props.month}</h3>
+                    <h4>{props.day}</h4>
+                    <h4>{props.month}</h4>
                 </div>
             </div>
             <div className="event-name">

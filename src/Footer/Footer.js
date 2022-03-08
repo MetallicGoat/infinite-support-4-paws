@@ -1,4 +1,4 @@
-import SocialFollow from "./Components/SocialFollow";
+import SocialFollow from "./SocialFollow";
 
 export default function Footer() {
     return (

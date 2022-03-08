@@ -29,3 +29,11 @@ March, 6, 2022:
     - Time 8:30 -> 10:00
     - Upcoming Events component
     - Total 1h 30min
+
+March, 7, 2022:
+    - Time 8:50 -> 10:10
+    - Fix EventsComp dates weird
+    - Remove Contact page (To be moved into home)
+    - Rename about page to Home page
+    - Reorganized Website
+    - Added MissionStatementComp

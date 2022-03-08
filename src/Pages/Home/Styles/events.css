@@ -3,7 +3,6 @@
 }
 
 .events{
-    padding: 10px 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -16,18 +15,18 @@
 }
 
 .event-date{
-    width: 30%;
+    width: 40%;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: center;
 }
-
-.event-mini-date{
-    display: flex;
-    flex-direction: column;
+.event-mini-date h4{
+    margin: 2px 8px;
 }
 
+
 .event-name{
-    width: 70%;
+    width: 60%;
 }
