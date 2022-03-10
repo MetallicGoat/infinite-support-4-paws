@@ -37,3 +37,11 @@ March, 7, 2022:
     - Rename about page to Home page
     - Reorganized Website
     - Added MissionStatementComp
+
+March, 9, 2022:
+    - Time 4:35 -> 5:30
+    - Added Contact Info Comp
+    - Restructured Home Page
+    - Some very basic stiling & css restructuring
+    - Time 6:20 -> 6:50
+    - Styling

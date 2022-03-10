@@ -1,9 +1,11 @@
+import "./Styles/allcomp.css"
+import "./Styles/team.css"
 import headPlaceholder from "../../Images/head-placeholder.png";
 
 export default function TeamComp() {
     return (
 
-        <div className="our-team">
+        <div className="comp our-team">
 
             <h2>Our Team</h2>
 

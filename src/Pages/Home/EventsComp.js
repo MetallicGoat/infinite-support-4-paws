@@ -1,8 +1,9 @@
+import "./Styles/allcomp.css"
 import "./Styles/events.css"
 
 export default function EventsComp() {
     return (
-        <div>
+        <div className="comp">
             <h2 className="title">Upcoming Events</h2>
             <div className="events">
                 <BuildEvent monthDay="7" day="Mon" month="Mar" eventName="Puppies are born!"/>

@@ -1,13 +1,15 @@
+import "./Styles/allcomp.css"
 import TeamComp from "./TeamComp";
 import EventsComp, {BuildEvent} from "./EventsComp";
 import MissionStatementComp from "./MissionStatementComp";
+import ContactComp from "./ContactComp";
 
 /**
  * HomePage Page
  *
  * Why were we founded?
  * Mission?
- * Link to Stories?
+ * Link to StoriesPage?
  * Images?
  * Donate?
  * Link to Contact?
@@ -17,10 +19,10 @@ import MissionStatementComp from "./MissionStatementComp";
 export default function HomePage() {
     return (
         <div className="page">
-            <MissionStatementComp/>
             <EventsComp/>
+            <MissionStatementComp/>
+            <ContactComp/>
             <TeamComp/>
-            {/*Contact*/}
         </div>
     );
 }

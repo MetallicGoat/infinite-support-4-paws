@@ -1,0 +1,21 @@
+.contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.business-image {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.business-image img {
+    width: 80%;
+}
+
+.contact-info{
+    width: 40%;
+    padding-left: 7%;
+}

@@ -1,9 +1,10 @@
+import "./Styles/allcomp.css"
 import "./Styles/mission.css"
 import collage from "../../Images/Collage1.jpg"
 
 export default function MissionStatementComp(){
     return(
-        <div className="mission-statement">
+        <div className="comp mission-statement">
 
             <div className="mission-image">
                 <img src={collage} alt="Mission"/>

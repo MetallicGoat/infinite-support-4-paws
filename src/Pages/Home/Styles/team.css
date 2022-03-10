@@ -1,0 +1,21 @@
+.our-team{
+    text-align: center;
+}
+
+.our-team .people{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.our-team img{
+    border-radius: 50%;
+    max-width: 80%;
+}
+
+.person{
+    padding: 2% 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

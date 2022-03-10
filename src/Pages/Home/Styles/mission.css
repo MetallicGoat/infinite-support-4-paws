@@ -5,19 +5,18 @@
     justify-content: center;
 }
 
-
-
 .mission-image {
-    width: 50%;
+    width: 55%;
     display: flex;
     justify-content: center;
 }
 
 .mission-image img {
     border-radius: 15px;
-    width: 80%;
+    width: 70%;
 }
 
 .mission-text{
-    width: 50%;
+    width: 45%;
+    padding-right: 7%;
 }

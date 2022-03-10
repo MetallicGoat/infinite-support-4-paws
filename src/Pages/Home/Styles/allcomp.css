@@ -1,0 +1,10 @@
+.page{
+    max-width: 850px;
+    margin: 0 auto;
+}
+.comp{
+    margin: 30px auto;
+    padding: 20px 0;
+    background-color: #d9b3b8;
+    border-radius: 15px;
+}
