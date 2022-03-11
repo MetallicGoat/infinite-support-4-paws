@@ -45,3 +45,6 @@ March, 9, 2022:
     - Some very basic stiling & css restructuring
     - Time 6:20 -> 6:50
     - Styling
+
+March, 10, 2022:
+    - Time 4:50 -> 5:20

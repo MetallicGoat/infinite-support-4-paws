@@ -19,8 +19,8 @@ import ContactComp from "./ContactComp";
 export default function HomePage() {
     return (
         <div className="page">
-            <EventsComp/>
             <MissionStatementComp/>
+            <EventsComp/>
             <ContactComp/>
             <TeamComp/>
         </div>
