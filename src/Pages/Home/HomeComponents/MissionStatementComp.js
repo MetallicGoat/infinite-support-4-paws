@@ -1,6 +1,6 @@
-import "./Styles/allcomp.css"
-import "./Styles/mission.css"
-import collage from "../../Images/Collage1.jpg"
+import "../HomeStyles/allcomp.css"
+import "../HomeStyles/mission.css"
+import collage from "../../../Images/Collage1.jpg"
 
 export default function MissionStatementComp(){
     return(

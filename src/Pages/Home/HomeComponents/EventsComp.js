@@ -1,5 +1,5 @@
-import "./Styles/allcomp.css"
-import "./Styles/events.css"
+import "../HomeStyles/allcomp.css"
+import "../HomeStyles/events.css"
 
 export default function EventsComp() {
     return (

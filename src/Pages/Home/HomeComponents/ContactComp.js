@@ -1,6 +1,6 @@
-import "./Styles/allcomp.css"
-import "./Styles/contact.css"
-import business from "../../Images/Business.png";
+import "../HomeStyles/allcomp.css"
+import "../HomeStyles/contact.css"
+import business from "../../../Images/Business.png";
 
 export default function ContactComp() {
     return(

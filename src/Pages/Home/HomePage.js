@@ -1,8 +1,8 @@
-import "./Styles/allcomp.css"
-import TeamComp from "./TeamComp";
-import EventsComp, {BuildEvent} from "./EventsComp";
-import MissionStatementComp from "./MissionStatementComp";
-import ContactComp from "./ContactComp";
+import "./HomeStyles/allcomp.css"
+import TeamComp from "./HomeComponents/TeamComp";
+import EventsComp, {BuildEvent} from "./HomeComponents/EventsComp";
+import MissionStatementComp from "./HomeComponents/MissionStatementComp";
+import ContactComp from "./HomeComponents/ContactComp";
 
 /**
  * HomePage Page

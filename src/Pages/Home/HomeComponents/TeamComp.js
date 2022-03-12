@@ -1,6 +1,6 @@
-import "./Styles/allcomp.css"
-import "./Styles/team.css"
-import headPlaceholder from "../../Images/head-placeholder.png";
+import "../HomeStyles/allcomp.css"
+import "../HomeStyles/team.css"
+import headPlaceholder from "../../../Images/head-placeholder.png";
 
 export default function TeamComp() {
     return (
