@@ -6,7 +6,11 @@ export default function EventsComp() {
         <div className="comp">
             <h2 className="title">Upcoming Events</h2>
             <div className="events">
-                <BuildEvent monthDay="7" day="Mon" month="Mar" eventName="Puppies are born!"/>
+                <BuildEvent monthDay="7" day="Mon" month="Mar" eventName="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua."/>
                 <BuildEvent monthDay="8" day="Tues" month="Mar" eventName="Our Birthday"/>
                 <BuildEvent monthDay="9" day="Wed" month="Mar" eventName="Super cool fundraiser"/>
             </div>

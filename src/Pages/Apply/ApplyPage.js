@@ -1,5 +1,7 @@
 export default function ApplyPage() {
     return (
-        <h2>ApplyPage</h2>
+        <div className="page">
+            <h2>ApplyPage</h2>
+        </div>
     );
 }

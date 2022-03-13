@@ -20,14 +20,14 @@ export default function TeamComp() {
                 <div className="person">
                     <img src={headPlaceholder} alt="Name2"/>
                     <h3>Name2</h3>
-                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua.</p>
                 </div>
 
                 <div className="person">
                     <img src={headPlaceholder} alt="Name3"/>
                     <h3>Name3</h3>
-                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua.</p>
                 </div>
             </div>
