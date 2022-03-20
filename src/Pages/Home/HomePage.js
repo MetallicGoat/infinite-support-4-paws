@@ -8,7 +8,6 @@ import ContactComp from "./HomeComponents/ContactComp";
  * HomePage Page
  *
  * Why were we founded?
- * Mission?
  * Link to StoriesPage?
  * Images?
  * Donate?

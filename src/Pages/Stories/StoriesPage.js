@@ -3,6 +3,7 @@ export default function StoriesPage() {
         <div className="page">
             <div>
 
+                <p></p>
             </div>
         </div>
     );
