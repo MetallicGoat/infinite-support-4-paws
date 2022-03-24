@@ -5,6 +5,8 @@ import ApplyPage from "./Pages/Apply/ApplyPage";
 import StoriesPage from "./Pages/Stories/StoriesPage";
 import Footer from "./Footer/Footer";
 
+// new comment
+
 function App() {
     return (
         <BrowserRouter>
